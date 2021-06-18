@@ -1,0 +1,6 @@
+hardware/src/credentials.h
+software/credentials.py
+software/__pycache__
+software/.vscode
+.vscode
+hardware/.vscode
