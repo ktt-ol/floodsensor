@@ -7,3 +7,4 @@ hardware/.vscode
 software_docker/.vscode
 software_docker/conf.py
 software_docker/__pycache__
+software_docker/tmp

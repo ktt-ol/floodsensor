@@ -69,3 +69,7 @@ alarm_hyteresis     = 2
 alarm_resend        = 1
 
 ###########################################################################
+# MISC
+
+# Allowed: DEBUG, INFO, WARNING, ERROR, CRITICAL
+loglevel = INFO
