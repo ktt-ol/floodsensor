@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 import csv, json
 import telegram
-import conf
+import conf.conf as conf
 import LogFile as clf
 from pathlib import Path
 import shutil, logging, re
